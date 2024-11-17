@@ -20,6 +20,13 @@ CCTV5+,http://kxrj.site:8081/8647/mg.php?id=cctv5p
 CCTV4欧洲,http://kxrj.site:8081/8647/mg.php?id=cctv4o
 CCTV4美洲,http://kxrj.site:8081/8647/mg.php?id=cctv4a
 
+东方卫视,https://api.livednow.org/migu/651632648?sign=gAAAAABnJcJqfu_kycy2Gb7eSdGQsamAhYXBlu-AYscNkoPGIfbg7gL756Lncv79Ps4ODzMedp1aFAj7uzaOHkAyBq06sQxNlk9g1nD1262R71fcdc7jvGxJemrvJ0Oak_Z16R_xYQdxRXo1hlbrCfTZO_RJIH10M7lQqOJHy6t68nakZVZ6sWXP2FPgP2hXaVKd9wu8yeDjxau2iqKexh5WBPlQ6hhAFA%3D%3D
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+东方卫视,http://kxrj.site:8081/8647/mg.php?id=dfws
+江苏卫视,http://kxrj.site:8081/8647/mg.php?id=jsws
+广东卫视,http://kxrj.site:8081/8647/mg.php?id=gdws
+湖北卫视,http://kxrj.site:8081/8647/mg.php?id=hubws
+
 💓[IPV6]央卫视,#genre#
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000001000004953/index.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=3
 CCTV2,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012442/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
