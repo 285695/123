@@ -1,4 +1,4 @@
-央视频道,#genre#
+央视频道1,#genre#
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
 CCTV2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
 CCTV3,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8
@@ -6984,4 +6984,3 @@ K望,https://alimov2.a.kwimgs.com/upic/2022/05/29/07/BMjAyMjA1MjkwNzU4MDlfOTU2Mz
 你是电我是光,https://txmov2.a.kwimgs.com/upic/2022/07/22/06/BMjAyMjA3MjIwNjU3MjVfOTU2MzA3MDg4Xzc5ODA1MTg0NDc1XzJfMw==_b_B95bd8439f12846dbe23ba454c2c7e492.mp4?clientCacheKey=3xkzxvxbiat2xce_b.mp4&tt=b&di=24710b75&bp=10000
 我要我要,https://txmov2.a.kwimgs.com/upic/2022/07/22/06/BMjAyMjA3MjIwNjAyMThfOTU2MzA3MDg4Xzc5ODAzNjgzNzU5XzJfMw==_b_Baeac966ba613e04f8330276478ffd212.mp4?clientCacheKey=3xs7j5k3rp3q92e_b.mp4&tt=b&di=24710b75&bp=10000
 爱你.哈给我一身伤,https://alimov2.a.kwimgs.com/upic/2022/07/25/15/BMjAyMjA3MjUxNTUxMDZfOTU2MzA3MDg4XzgwMDk3MjI5NTA2XzJfMw==_b_B580959a4d89e993f6d019582e87caf20.mp4?clientCacheKey=3xrqbkdxcx96pek_b.mp4&tt=b&di=24710b75&bp=10000
-
