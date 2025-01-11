@@ -185,7 +185,7 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPla
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="港澳部分源" tvg-name="RTHK-35" tvg-logo="https://diyp10.112114.xyz/logo/RTHK-35.png" epg-url="https://epg.112114.xyz/pp.xml",RTHK-35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="港澳部分源" tvg-name="香港_C+_" tvg-logo="https://diyp10.112114.xyz/logo/香港_C+_.png" epg-url="https://epg.112114.xyz/pp.xml",香港_C+_
+#EXTINF:-1 group-title="港澳部分源" tvg-name="香港_C_" tvg-logo="https://diyp10.112114.xyz/logo/香港_C_.png" epg-url="https://epg.112114.xyz/pp.xml",香港_C_
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="港澳部分源" tvg-name="澳门莲花" tvg-logo="https://diyp10.112114.xyz/logo/澳门莲花.png" epg-url="https://epg.112114.xyz/pp.xml",澳门莲花
 http://php.jdshipin.com:8880/amlh.php
@@ -293,10 +293,6 @@ http://zb.xmzb.xyz/123.php?id=OOo一HBO
 http://zb.xmzb.xyz/888.php?id=fu〇一HBO
 #EXTINF:-1 group-title="港澳部分源" tvg-name="HBODH" tvg-logo="https://diyp10.112114.xyz/logo/HBODH.png" epg-url="https://epg.112114.xyz/pp.xml",HBODH
 http://zb.xmzb.xyz/888.php?id=fu〇一HBODH
-#EXTINF:-1 group-title="港澳部分源" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
-#EXTINF:-1 group-title="央视咪咕源" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
 #EXTINF:-1 group-title="央视咪咕源" tvg-name="CCTV1" tvg-logo="https://diyp10.112114.xyz/logo/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
 http://z.b.bkpcp.top/m.php?id=cctv1
 #EXTINF:-1 group-title="央视咪咕源" tvg-name="CCTV2" tvg-logo="https://diyp10.112114.xyz/logo/CCTV2.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV2
@@ -311,7 +307,7 @@ http://z.b.bkpcp.top/m.php?id=cctv4m
 http://z.b.bkpcp.top/m.php?id=cctv4o
 #EXTINF:-1 group-title="央视咪咕源" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://z.b.bkpcp.top/m.php?id=cctv5
-#EXTINF:-1 group-title="央视咪咕源" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央视咪咕源" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://z.b.bkpcp.top/m.php?id=cctv5p
 #EXTINF:-1 group-title="央视咪咕源" tvg-name="CCTV6" tvg-logo="https://diyp10.112114.xyz/logo/CCTV6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV6
 http://z.b.bkpcp.top/m.php?id=cctv6
@@ -349,7 +345,7 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265003/index.m3u
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000004000008885/index.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV6" tvg-logo="https://diyp10.112114.xyz/logo/CCTV6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV6
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=YanG-1989
@@ -427,8 +423,6 @@ https://0472.org/hls/cgtnd.m3u8
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CGTN阿语" tvg-logo="https://diyp10.112114.xyz/logo/CGTN阿语.png" epg-url="https://epg.112114.xyz/pp.xml",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV1" tvg-logo="https://diyp10.112114.xyz/logo/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV1" tvg-logo="https://diyp10.112114.xyz/logo/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
@@ -481,17 +475,17 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225603/2.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV6" tvg-logo="https://diyp10.112114.xyz/logo/CCTV6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV6
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226010/2.m3u8
@@ -627,8 +621,6 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV17" tvg-logo="https://diyp10.112114.xyz/logo/CCTV17.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV17
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV1" tvg-logo="https://diyp10.112114.xyz/logo/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000021973/1.m3u8
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV1" tvg-logo="https://diyp10.112114.xyz/logo/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
@@ -653,11 +645,11 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/index.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020505/1.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8?
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/index.m3u8
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV6" tvg-logo="https://diyp10.112114.xyz/logo/CCTV6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV6
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265006/1.m3u8
@@ -723,8 +715,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000056836/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/1.m3u8
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV17" tvg-logo="https://diyp10.112114.xyz/logo/CCTV17.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV17
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV1" tvg-logo="https://diyp10.112114.xyz/logo/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV1" tvg-logo="https://diyp10.112114.xyz/logo/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
@@ -743,7 +733,7 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031102/1.m3u8?chann
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031102/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV6" tvg-logo="https://diyp10.112114.xyz/logo/CCTV6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV6
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=3
@@ -801,8 +791,6 @@ http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CHC影迷电影" tvg-logo="https://diyp10.112114.xyz/logo/CHC影迷电影.png" epg-url="https://epg.112114.xyz/pp.xml",CHC影迷电影
 http://[2409:8087:7008:20::9]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV1" tvg-logo="https://diyp10.112114.xyz/logo/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
 http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV1" tvg-logo="https://diyp10.112114.xyz/logo/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
@@ -847,17 +835,17 @@ http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:1a0a:df::4032]:80/wh7f454c46tw1559678945_883095252/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:1a0a:df::4032]:80/wh7f454c46tw1559678945_883095252/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8?icpid=88888888&RTS=1713968388&from=4&hms_devid=1143&online=1713968388&vqe=3
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV6" tvg-logo="https://diyp10.112114.xyz/logo/CCTV6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV6
 http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
@@ -981,8 +969,6 @@ http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV17" tvg-logo="https://diyp10.112114.xyz/logo/CCTV17.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV17
 http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV3" tvg-logo="https://diyp10.112114.xyz/logo/CCTV3.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV3
 http://[2409:8087:74d4:21::2f]/270000001128/9900000003/index.m3u8
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
@@ -993,11 +979,7 @@ http://[2409:8087:74d4:21::2f]/270000001128/9900000006/index.m3u8
 http://[2409:8087:74d4:21::2f]/270000001128/9900000008/index.m3u8
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="CCTV16" tvg-logo="https://diyp10.112114.xyz/logo/CCTV16.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV16
 http://[2409:8087:74d4:21::2f]/270000001128/9900000016/index.m3u8
-#EXTINF:-1 group-title="IPV6央视台" tvg-name="++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6央视台" tvg-name="████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",████████████████████████████████████████████
-undefined
-#EXTINF:-1 group-title="IPV6卫视台" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
 undefined
 #EXTINF:-1 group-title="IPV6卫视台" tvg-name="湖南卫视" tvg-logo="https://diyp10.112114.xyz/logo/湖南卫视.png" epg-url="https://epg.112114.xyz/pp.xml",湖南卫视
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265024/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=YanG-1989
@@ -1053,8 +1035,6 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031121/index.m3u
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000006000040015/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="IPV6卫视台" tvg-name="三沙卫视" tvg-logo="https://diyp10.112114.xyz/logo/三沙卫视.png" epg-url="https://epg.112114.xyz/pp.xml",三沙卫视
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288016/index.m3u8?channel-id=bestzb&Contentid=5000000011000288016&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="IPV6卫视台" tvg-name="++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6卫视台" tvg-name="安徽卫视" tvg-logo="https://diyp10.112114.xyz/logo/安徽卫视.png" epg-url="https://epg.112114.xyz/pp.xml",安徽卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 group-title="IPV6卫视台" tvg-name="安徽卫视" tvg-logo="https://diyp10.112114.xyz/logo/安徽卫视.png" epg-url="https://epg.112114.xyz/pp.xml",安徽卫视
@@ -1363,8 +1343,6 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225618
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
 #EXTINF:-1 group-title="IPV6卫视台" tvg-name="重庆卫视" tvg-logo="https://diyp10.112114.xyz/logo/重庆卫视.png" epg-url="https://epg.112114.xyz/pp.xml",重庆卫视
 http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 group-title="IPV6卫视台" tvg-name="+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6卫视台" tvg-name="安徽卫视" tvg-logo="https://diyp10.112114.xyz/logo/安徽卫视.png" epg-url="https://epg.112114.xyz/pp.xml",安徽卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020780/1.m3u8
 #EXTINF:-1 group-title="IPV6卫视台" tvg-name="安徽卫视" tvg-logo="https://diyp10.112114.xyz/logo/安徽卫视.png" epg-url="https://epg.112114.xyz/pp.xml",安徽卫视
@@ -1589,8 +1567,6 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/1.m3u8?
 #EXTINF:-1 group-title="IPV6卫视台" tvg-name="重庆卫视" tvg-logo="https://diyp10.112114.xyz/logo/重庆卫视.png" epg-url="https://epg.112114.xyz/pp.xml",重庆卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/index.m3u8
-#EXTINF:-1 group-title="IPV6卫视台" tvg-name="++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6卫视台" tvg-name="安徽卫视" tvg-logo="https://diyp10.112114.xyz/logo/安徽卫视.png" epg-url="https://epg.112114.xyz/pp.xml",安徽卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265025/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265025&livemode=1&stbId=3
 #EXTINF:-1 group-title="IPV6卫视台" tvg-name="北京纪实科教" tvg-logo="https://diyp10.112114.xyz/logo/北京纪实科教.png" epg-url="https://epg.112114.xyz/pp.xml",北京纪实科教
@@ -1731,12 +1707,6 @@ http://[2409:8087:5e08:24::16]:6610/000000001000/1000000001000014260/index.m3u8?
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265031/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=3
 #EXTINF:-1 group-title="IPV6卫视台" tvg-name="重庆卫视" tvg-logo="https://diyp10.112114.xyz/logo/重庆卫视.png" epg-url="https://epg.112114.xyz/pp.xml",重庆卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000001096/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3
-#EXTINF:-1 group-title="IPV6卫视台" tvg-name="+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
-#EXTINF:-1 group-title="IPV6卫视台" tvg-name="+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
-#EXTINF:-1 group-title="IPV6卫视台" tvg-name="+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6卫视台" tvg-name="安徽卫视" tvg-logo="https://diyp10.112114.xyz/logo/安徽卫视.png" epg-url="https://epg.112114.xyz/pp.xml",安徽卫视
 http://[2409:8087:74dc:21::1a]/270000001128/9900000514/index.m3u8
 #EXTINF:-1 group-title="IPV6卫视台" tvg-name="福建厦门卫视" tvg-logo="https://diyp10.112114.xyz/logo/福建厦门卫视.png" epg-url="https://epg.112114.xyz/pp.xml",福建厦门卫视
@@ -1771,11 +1741,7 @@ http://[2409:8087:74d4:21::2f]/270000001128/9900000025/index.m3u8
 http://[2409:8087:74d4:21::2f]/270000001128/9900000043/index.m3u8
 #EXTINF:-1 group-title="IPV6卫视台" tvg-name="云南卫视" tvg-logo="https://diyp10.112114.xyz/logo/云南卫视.png" epg-url="https://epg.112114.xyz/pp.xml",云南卫视
 http://[2409:8087:74d4:21::2f]/270000001128/9900000035/index.m3u8
-#EXTINF:-1 group-title="IPV6卫视台" tvg-name="+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6卫视台" tvg-name="████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",████████████████████████████████████████████
-undefined
-#EXTINF:-1 group-title="IPV6其他台" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
 undefined
 #EXTINF:-1 group-title="IPV6其他台" tvg-name="东方影视" tvg-logo="https://diyp10.112114.xyz/logo/东方影视.png" epg-url="https://epg.112114.xyz/pp.xml",东方影视
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=YanG-1989
@@ -1935,8 +1901,6 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/3000000020000011520/index.m3u
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="IPV6其他台" tvg-name="咪咕直播𝟛𝟠" tvg-logo="https://diyp10.112114.xyz/logo/咪咕直播𝟛𝟠.png" epg-url="https://epg.112114.xyz/pp.xml",咪咕直播𝟛𝟠
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="IPV6其他台" tvg-name="++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6其他台" tvg-name="东方财经" tvg-logo="https://diyp10.112114.xyz/logo/东方财经.png" epg-url="https://epg.112114.xyz/pp.xml",东方财经
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="IPV6其他台" tvg-name="东方影视" tvg-logo="https://diyp10.112114.xyz/logo/东方影视.png" epg-url="https://epg.112114.xyz/pp.xml",东方影视
@@ -1989,8 +1953,6 @@ http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000001/index.m3u8
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="IPV6其他台" tvg-name="████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",████████████████████████████████████████████
 undefined
-#EXTINF:-1 group-title="IPV6SiTV" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
 #EXTINF:-1 group-title="IPV6SiTV" tvg-name="SiTV五星体育" tvg-logo="https://diyp10.112114.xyz/logo/SiTV五星体育.png" epg-url="https://epg.112114.xyz/pp.xml",SiTV五星体育
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="IPV6SiTV" tvg-name="SiTV劲爆体育" tvg-logo="https://diyp10.112114.xyz/logo/SiTV劲爆体育.png" epg-url="https://epg.112114.xyz/pp.xml",SiTV劲爆体育
@@ -2017,8 +1979,6 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000010000026105/index.m3u
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="IPV6SiTV" tvg-name="SiTV东方财经" tvg-logo="https://diyp10.112114.xyz/logo/SiTV东方财经.png" epg-url="https://epg.112114.xyz/pp.xml",SiTV东方财经
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="IPV6SiTV" tvg-name="+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6SiTV" tvg-name="SiTV第一财经" tvg-logo="https://diyp10.112114.xyz/logo/SiTV第一财经.png" epg-url="https://epg.112114.xyz/pp.xml",SiTV第一财经
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&yang-1989
 #EXTINF:-1 group-title="IPV6SiTV" tvg-name="SiTV东方财经" tvg-logo="https://diyp10.112114.xyz/logo/SiTV东方财经.png" epg-url="https://epg.112114.xyz/pp.xml",SiTV东方财经
@@ -2041,10 +2001,6 @@ http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000006/index.m3u8
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&yang-1989
 #EXTINF:-1 group-title="IPV6SiTV" tvg-name="SiTV游戏风云" tvg-logo="https://diyp10.112114.xyz/logo/SiTV游戏风云.png" epg-url="https://epg.112114.xyz/pp.xml",SiTV游戏风云
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&yang-1989
-#EXTINF:-1 group-title="IPV6SiTV" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
-#EXTINF:-1 group-title="IPV6NewTV" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
 #EXTINF:-1 group-title="IPV6NewTV" tvg-name="NewTV哒啵电竞" tvg-logo="https://diyp10.112114.xyz/logo/NewTV哒啵电竞.png" epg-url="https://epg.112114.xyz/pp.xml",NewTV哒啵电竞
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000006000032327/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="IPV6NewTV" tvg-name="NewTV哒啵赛事" tvg-logo="https://diyp10.112114.xyz/logo/NewTV哒啵赛事.png" epg-url="https://epg.112114.xyz/pp.xml",NewTV哒啵赛事
@@ -2103,8 +2059,6 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000004000013730/index.m3u
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="IPV6NewTV" tvg-name="NewTV明星大片" tvg-logo="https://diyp10.112114.xyz/logo/NewTV明星大片.png" epg-url="https://epg.112114.xyz/pp.xml",NewTV明星大片
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="IPV6NewTV" tvg-name="+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6NewTV" tvg-name="NewTV魅力潇湘" tvg-logo="https://diyp10.112114.xyz/logo/NewTV魅力潇湘.png" epg-url="https://epg.112114.xyz/pp.xml",NewTV魅力潇湘
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000003000000041/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000041&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="IPV6NewTV" tvg-name="NewTV黑莓动画" tvg-logo="https://diyp10.112114.xyz/logo/NewTV黑莓动画.png" epg-url="https://epg.112114.xyz/pp.xml",NewTV黑莓动画
@@ -2141,8 +2095,6 @@ http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000003000000041/index.m3u8
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&yang-1989
 #EXTINF:-1 group-title="IPV6NewTV" tvg-name="NewTV超级体育" tvg-logo="https://diyp10.112114.xyz/logo/NewTV超级体育.png" epg-url="https://epg.112114.xyz/pp.xml",NewTV超级体育
 http://[2409:8087:5e08:24::d]:6610/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="IPV6NewTV" tvg-name="+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6NewTV" tvg-name="NewTV古装剧场" tvg-logo="https://diyp10.112114.xyz/logo/NewTV古装剧场.png" epg-url="https://epg.112114.xyz/pp.xml",NewTV古装剧场
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 #EXTINF:-1 group-title="IPV6NewTV" tvg-name="NewTV明星大片" tvg-logo="https://diyp10.112114.xyz/logo/NewTV明星大片.png" epg-url="https://epg.112114.xyz/pp.xml",NewTV明星大片
@@ -2173,8 +2125,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 group-title="IPV6NewTV" tvg-name="NewTV精品萌宠" tvg-logo="https://diyp10.112114.xyz/logo/NewTV精品萌宠.png" epg-url="https://epg.112114.xyz/pp.xml",NewTV精品萌宠
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 group-title="IPV6NewTV" tvg-name="++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6NewTV" tvg-name="NewTV动作电影" tvg-logo="https://diyp10.112114.xyz/logo/NewTV动作电影.png" epg-url="https://epg.112114.xyz/pp.xml",NewTV动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 group-title="IPV6NewTV" tvg-name="黑莓动画" tvg-logo="https://diyp10.112114.xyz/logo/黑莓动画.png" epg-url="https://epg.112114.xyz/pp.xml",黑莓动画
@@ -2197,10 +2147,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="IPV6NewTV" tvg-name="NewTV炫舞未来" tvg-logo="https://diyp10.112114.xyz/logo/NewTV炫舞未来.png" epg-url="https://epg.112114.xyz/pp.xml",NewTV炫舞未来
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 group-title="IPV6NewTV" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
-#EXTINF:-1 group-title="IPV6iHOT" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
 #EXTINF:-1 group-title="IPV6iHOT" tvg-name="iHOT爱喜剧" tvg-logo="https://diyp10.112114.xyz/logo/iHOT爱喜剧.png" epg-url="https://epg.112114.xyz/pp.xml",iHOT爱喜剧
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000032/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="IPV6iHOT" tvg-name="iHOT爱科幻" tvg-logo="https://diyp10.112114.xyz/logo/iHOT爱科幻.png" epg-url="https://epg.112114.xyz/pp.xml",iHOT爱科幻
@@ -2231,8 +2177,6 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000058/index.m3u
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000059/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="IPV6iHOT" tvg-name="iHOT爱体育" tvg-logo="https://diyp10.112114.xyz/logo/iHOT爱体育.png" epg-url="https://epg.112114.xyz/pp.xml",iHOT爱体育
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000060/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="IPV6iHOT" tvg-name="+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6iHOT" tvg-name="iHOT爱谍战" tvg-logo="https://diyp10.112114.xyz/logo/iHOT爱谍战.png" epg-url="https://epg.112114.xyz/pp.xml",iHOT爱谍战
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&yang-1989
 #EXTINF:-1 group-title="IPV6iHOT" tvg-name="iHOT爱动漫" tvg-logo="https://diyp10.112114.xyz/logo/iHOT爱动漫.png" epg-url="https://epg.112114.xyz/pp.xml",iHOT爱动漫
@@ -2261,8 +2205,6 @@ http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000036/index.m3u8
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&yang-1989
 #EXTINF:-1 group-title="IPV6iHOT" tvg-name="iHOY爱历史" tvg-logo="https://diyp10.112114.xyz/logo/iHOY爱历史.png" epg-url="https://epg.112114.xyz/pp.xml",iHOY爱历史
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&yang-1989
-#EXTINF:-1 group-title="IPV6iHOT" tvg-name="++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="IPV6iHOT" tvg-name="iHOT爱谍战" tvg-logo="https://diyp10.112114.xyz/logo/iHOT爱谍战.png" epg-url="https://epg.112114.xyz/pp.xml",iHOT爱谍战
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="IPV6iHOT" tvg-name="iHOT爱科幻" tvg-logo="https://diyp10.112114.xyz/logo/iHOT爱科幻.png" epg-url="https://epg.112114.xyz/pp.xml",iHOT爱科幻
@@ -2289,10 +2231,6 @@ http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000032/index.m3u8
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="IPV6iHOT" tvg-name="iHOT爱院线" tvg-logo="https://diyp10.112114.xyz/logo/iHOT爱院线.png" epg-url="https://epg.112114.xyz/pp.xml",iHOT爱院线
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 group-title="IPV6iHOT" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
-#EXTINF:-1 group-title="IPV4电视台" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
 #EXTINF:-1 group-title="IPV4电视台" tvg-name="4K南国都市频道" tvg-logo="https://diyp10.112114.xyz/logo/4K南国都市频道.png" epg-url="https://epg.112114.xyz/pp.xml",4K南国都市频道
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 group-title="IPV4电视台" tvg-name="BTV纪实" tvg-logo="https://diyp10.112114.xyz/logo/BTV纪实.png" epg-url="https://epg.112114.xyz/pp.xml",BTV纪实
@@ -3147,10 +3085,6 @@ https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 #EXTINF:-1 group-title="IPV4电视台" tvg-name="湘潭新闻综合" tvg-logo="https://diyp10.112114.xyz/logo/湘潭新闻综合.png" epg-url="https://epg.112114.xyz/pp.xml",湘潭新闻综合
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-#EXTINF:-1 group-title="IPV4电视台" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
-#EXTINF:-1 group-title="AKTV(qps限流)" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
 #EXTINF:-1 group-title="AKTV(qps限流)" tvg-name="中天新聞台" tvg-logo="https://diyp10.112114.xyz/logo/中天新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",中天新聞台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV(qps限流)" tvg-name="翡翠台" tvg-logo="https://diyp10.112114.xyz/logo/翡翠台.png" epg-url="https://epg.112114.xyz/pp.xml",翡翠台
@@ -3267,10 +3201,6 @@ http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV(qps限流)" tvg-name="纬来体育台" tvg-logo="https://diyp10.112114.xyz/logo/纬来体育台.png" epg-url="https://epg.112114.xyz/pp.xml",纬来体育台
 http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV(qps限流)" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
-#EXTINF:-1 group-title="HLS-TV(28)" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
 #EXTINF:-1 group-title="HLS-TV(28)" tvg-name="amc电影(中字)" tvg-logo="https://diyp10.112114.xyz/logo/amc电影(中字).png" epg-url="https://epg.112114.xyz/pp.xml",amc电影(中字)
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 group-title="HLS-TV(28)" tvg-name="DISCOVERY亚洲" tvg-logo="https://diyp10.112114.xyz/logo/DISCOVERY亚洲.png" epg-url="https://epg.112114.xyz/pp.xml",DISCOVERY亚洲
@@ -3303,8 +3233,6 @@ http://61.221.215.25:8800/hls/57/index.m3u8
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 group-title="HLS-TV(28)" tvg-name="中天娱乐HD" tvg-logo="https://diyp10.112114.xyz/logo/中天娱乐HD.png" epg-url="https://epg.112114.xyz/pp.xml",中天娱乐HD
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 group-title="HLS-TV(28)" tvg-name="+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" tvg-logo="https://diyp10.112114.xyz/logo/+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.png" epg-url="https://epg.112114.xyz/pp.xml",+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-undefined
 #EXTINF:-1 group-title="HLS-TV(28)" tvg-name="民视HD" tvg-logo="https://diyp10.112114.xyz/logo/民视HD.png" epg-url="https://epg.112114.xyz/pp.xml",民视HD
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 group-title="HLS-TV(28)" tvg-name="台视HD" tvg-logo="https://diyp10.112114.xyz/logo/台视HD.png" epg-url="https://epg.112114.xyz/pp.xml",台视HD
@@ -3329,10 +3257,6 @@ rtmp://f13h.mine.nu/sat/tv741
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 group-title="HLS-TV(28)" tvg-name="纬来日本HD" tvg-logo="https://diyp10.112114.xyz/logo/纬来日本HD.png" epg-url="https://epg.112114.xyz/pp.xml",纬来日本HD
 rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 group-title="HLS-TV(28)" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
-#EXTINF:-1 group-title="动作片0111" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
 #EXTINF:-1 group-title="动作片0111" tvg-name="鼠王2019(大陆动作片)" tvg-logo="https://diyp10.112114.xyz/logo/鼠王2019(大陆动作片).png" epg-url="https://epg.112114.xyz/pp.xml",鼠王2019(大陆动作片)
 https://v.cdnlz3.com/20250103/31784_75986da5/index.m3u8
 #EXTINF:-1 group-title="动作片0111" tvg-name="绣春刀：诛邪2024(大陆动作片)" tvg-logo="https://diyp10.112114.xyz/logo/绣春刀：诛邪2024(大陆动作片).png" epg-url="https://epg.112114.xyz/pp.xml",绣春刀：诛邪2024(大陆动作片)
@@ -6127,10 +6051,6 @@ https://vip1.lz-cdn7.com/20230209/14060_6278787e/index.m3u8
 https://vip1.lz-cdn7.com/20230209/14057_c5efda54/index.m3u8
 #EXTINF:-1 group-title="动作片0111" tvg-name="三德和尚与舂米六1977(香港动作片)" tvg-logo="https://diyp10.112114.xyz/logo/三德和尚与舂米六1977(香港动作片).png" epg-url="https://epg.112114.xyz/pp.xml",三德和尚与舂米六1977(香港动作片)
 https://vip1.lz-cdn7.com/20230208/14043_9921b45d/index.m3u8
-#EXTINF:-1 group-title="动作片0111" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
-#EXTINF:-1 group-title="科幻片0103" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
 #EXTINF:-1 group-title="科幻片0103" tvg-name="寂静岛之异兽2024(大陆科幻片)" tvg-logo="https://diyp10.112114.xyz/logo/寂静岛之异兽2024(大陆科幻片).png" epg-url="https://epg.112114.xyz/pp.xml",寂静岛之异兽2024(大陆科幻片)
 https://v.cdnlz3.com/20250102/31728_b5d6f8d3/index.m3u8
 #EXTINF:-1 group-title="科幻片0103" tvg-name="宇宙刑事夏伊达剧场版Ⅱ1985(日本科幻片)" tvg-logo="https://diyp10.112114.xyz/logo/宇宙刑事夏伊达剧场版Ⅱ1985(日本科幻片).png" epg-url="https://epg.112114.xyz/pp.xml",宇宙刑事夏伊达剧场版Ⅱ1985(日本科幻片)
@@ -6279,7 +6199,7 @@ https://v.cdnlz19.com/20240229/19226_fb87e669/index.m3u8
 https://v1.cdnlz1.com/20240225/24666_51932d52/index.m3u8
 #EXTINF:-1 group-title="科幻片0103" tvg-name="魔盒：隐喻(美国科幻片)" tvg-logo="https://diyp10.112114.xyz/logo/魔盒：隐喻(美国科幻片).png" epg-url="https://epg.112114.xyz/pp.xml",魔盒：隐喻(美国科幻片)
 https://v.cdnlz12.com/20240220/11651_8c0b0b83/index.m3u8
-#EXTINF:-1 group-title="科幻片0103" tvg-name="外星+人2(韩国科幻片)" tvg-logo="https://diyp10.112114.xyz/logo/外星+人2(韩国科幻片).png" epg-url="https://epg.112114.xyz/pp.xml",外星+人2(韩国科幻片)
+#EXTINF:-1 group-title="科幻片0103" tvg-name="外星人2(韩国科幻片)" tvg-logo="https://diyp10.112114.xyz/logo/外星人2(韩国科幻片).png" epg-url="https://epg.112114.xyz/pp.xml",外星人2(韩国科幻片)
 https://v.cdnlz12.com/20240215/11573_4cb789fb/index.m3u8
 #EXTINF:-1 group-title="科幻片0103" tvg-name="正义联盟【原声】(美国科幻片)" tvg-logo="https://diyp10.112114.xyz/logo/正义联盟【原声】(美国科幻片).png" epg-url="https://epg.112114.xyz/pp.xml",正义联盟【原声】(美国科幻片)
 https://vip1.lz-cdn1.com/20220518/6142_0898244e/index.m3u8
@@ -7325,7 +7245,7 @@ https://vip.lz-cdn3.com/20220828/12144_ecc64ca2/index.m3u8
 https://vip.lz-cdn3.com/20220827/12114_32808a1c/index.m3u8
 #EXTINF:-1 group-title="科幻片0103" tvg-name="心愿房间(法国科幻片)" tvg-logo="https://diyp10.112114.xyz/logo/心愿房间(法国科幻片).png" epg-url="https://epg.112114.xyz/pp.xml",心愿房间(法国科幻片)
 https://vip.lz-cdn3.com/20220826/12022_0e648e72/index.m3u8
-#EXTINF:-1 group-title="科幻片0103" tvg-name="外星+人(韩国科幻片)" tvg-logo="https://diyp10.112114.xyz/logo/外星+人(韩国科幻片).png" epg-url="https://epg.112114.xyz/pp.xml",外星+人(韩国科幻片)
+#EXTINF:-1 group-title="科幻片0103" tvg-name="外星人(韩国科幻片)" tvg-logo="https://diyp10.112114.xyz/logo/外星人(韩国科幻片).png" epg-url="https://epg.112114.xyz/pp.xml",外星人(韩国科幻片)
 https://vip.lz-cdn3.com/20220825/11991_100813bb/index.m3u8
 #EXTINF:-1 group-title="科幻片0103" tvg-name="海热症(科幻片)" tvg-logo="https://diyp10.112114.xyz/logo/海热症(科幻片).png" epg-url="https://epg.112114.xyz/pp.xml",海热症(科幻片)
 https://vip.lz-cdn3.com/20220824/11935_d026e870/index.m3u8
@@ -7403,10 +7323,6 @@ https://vip1.lz-cdn10.com/20220812/2207_17b2a7f4/index.m3u8
 https://vip1.lz-cdn10.com/20220812/2222_ee84d295/index.m3u8
 #EXTINF:-1 group-title="科幻片0103" tvg-name="全球风暴(美国科幻片)" tvg-logo="https://diyp10.112114.xyz/logo/全球风暴(美国科幻片).png" epg-url="https://epg.112114.xyz/pp.xml",全球风暴(美国科幻片)
 https://vip.lz-cdn3.com/20220811/11225_a16ba68e/index.m3u8
-#EXTINF:-1 group-title="科幻片0103" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
-#EXTINF:-1 group-title="恐怖片0110" tvg-name="█████████████████████████████████████████████" tvg-logo="https://diyp10.112114.xyz/logo/█████████████████████████████████████████████.png" epg-url="https://epg.112114.xyz/pp.xml",█████████████████████████████████████████████
-undefined
 #EXTINF:-1 group-title="恐怖片0110" tvg-name="鸳鸯楼·惊魂2024(大陆恐怖片)" tvg-logo="https://diyp10.112114.xyz/logo/鸳鸯楼·惊魂2024(大陆恐怖片).png" epg-url="https://epg.112114.xyz/pp.xml",鸳鸯楼·惊魂2024(大陆恐怖片)
 https://v.cdnlz3.com/20250110/32073_792c9998/index.m3u8
 #EXTINF:-1 group-title="恐怖片0110" tvg-name="穷凶极恶2025(大陆恐怖片)" tvg-logo="https://diyp10.112114.xyz/logo/穷凶极恶2025(大陆恐怖片).png" epg-url="https://epg.112114.xyz/pp.xml",穷凶极恶2025(大陆恐怖片)
@@ -12041,7 +11957,7 @@ https://vd2.bdstatic.com/mda-khqxk2ribry0pp46/sc/mda-khqxk2ribry0pp46.mp4
 https://vd4.bdstatic.com/mda-khqmwt1y621j8v3b/sc/mda-khqmwt1y621j8v3b.mp4
 #EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="4K崔伟立孙艺琪《唱不完的情歌 爱不够的你》情歌对唱好听到醉！" tvg-logo="https://diyp10.112114.xyz/logo/4K崔伟立孙艺琪《唱不完的情歌 爱不够的你》情歌对唱好听到醉！.png" epg-url="https://epg.112114.xyz/pp.xml",4K崔伟立孙艺琪《唱不完的情歌 爱不够的你》情歌对唱好听到醉！
 https://vd2.bdstatic.com/mda-khpg33pk3g1xs15u/sc/mda-khpg33pk3g1xs15u.mp4
-#EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="杭娇一曲《听心》车载DJ舞曲版+美女舞蹈视频全高清 百看不厌" tvg-logo="https://diyp10.112114.xyz/logo/杭娇一曲《听心》车载DJ舞曲版+美女舞蹈视频全高清 百看不厌.png" epg-url="https://epg.112114.xyz/pp.xml",杭娇一曲《听心》车载DJ舞曲版+美女舞蹈视频全高清 百看不厌
+#EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="杭娇一曲《听心》车载DJ舞曲版美女舞蹈视频全高清 百看不厌" tvg-logo="https://diyp10.112114.xyz/logo/杭娇一曲《听心》车载DJ舞曲版美女舞蹈视频全高清 百看不厌.png" epg-url="https://epg.112114.xyz/pp.xml",杭娇一曲《听心》车载DJ舞曲版美女舞蹈视频全高清 百看不厌
 https://vd3.bdstatic.com/mda-kdar82ddvzxkwxig/sc/mda-kdar82ddvzxkwxig.mp4
 #EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="大欢《多年以后》车载伤感DJ舞曲加美女视频背景 全新视觉感受！" tvg-logo="https://diyp10.112114.xyz/logo/大欢《多年以后》车载伤感DJ舞曲加美女视频背景 全新视觉感受！.png" epg-url="https://epg.112114.xyz/pp.xml",大欢《多年以后》车载伤感DJ舞曲加美女视频背景 全新视觉感受！
 https://vd3.bdstatic.com/mda-kd8kcqjpbu1mq7eh/sc/mda-kd8kcqjpbu1mq7eh.mp4
@@ -12073,7 +11989,7 @@ https://vd4.bdstatic.com/mda-kd8pqyjrad3xhivf/v1-cae/sc/mda-kd8pqyjrad3xhivf.mp4
 https://vd2.bdstatic.com/mda-kd8x7qg9riunmh0p/sc/mda-kd8x7qg9riunmh0p.mp4
 #EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="乌兰托娅的《花桥流水》情歌甜蜜更好听 让人心醉！" tvg-logo="https://diyp10.112114.xyz/logo/乌兰托娅的《花桥流水》情歌甜蜜更好听 让人心醉！.png" epg-url="https://epg.112114.xyz/pp.xml",乌兰托娅的《花桥流水》情歌甜蜜更好听 让人心醉！
 https://vd4.bdstatic.com/mda-kd8jg96kj3tmhfb2/sc/mda-kd8jg96kj3tmhfb2.mp4
-#EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="周杰伦一曲《青花瓷》原汁原味+古典青花瓷歌词字幕太唯美了！" tvg-logo="https://diyp10.112114.xyz/logo/周杰伦一曲《青花瓷》原汁原味+古典青花瓷歌词字幕太唯美了！.png" epg-url="https://epg.112114.xyz/pp.xml",周杰伦一曲《青花瓷》原汁原味+古典青花瓷歌词字幕太唯美了！
+#EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="周杰伦一曲《青花瓷》原汁原味古典青花瓷歌词字幕太唯美了！" tvg-logo="https://diyp10.112114.xyz/logo/周杰伦一曲《青花瓷》原汁原味古典青花瓷歌词字幕太唯美了！.png" epg-url="https://epg.112114.xyz/pp.xml",周杰伦一曲《青花瓷》原汁原味古典青花瓷歌词字幕太唯美了！
 https://vd3.bdstatic.com/mda-kd8fi53p455vngqm/v1-cae/sc/mda-kd8fi53p455vngqm.mp4
 #EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="祁隆一曲《想着你亲爱的》DJ伦巴舞曲版 不一样的视听享受哦！" tvg-logo="https://diyp10.112114.xyz/logo/祁隆一曲《想着你亲爱的》DJ伦巴舞曲版 不一样的视听享受哦！.png" epg-url="https://epg.112114.xyz/pp.xml",祁隆一曲《想着你亲爱的》DJ伦巴舞曲版 不一样的视听享受哦！
 https://vd4.bdstatic.com/mda-kd8ccec0mfuab9ki/v1-cae/sc/mda-kd8ccec0mfuab9ki.mp4
@@ -12195,7 +12111,7 @@ https://vd3.bdstatic.com/mda-mgciytzb45z6z8yj/1080p/cae_h264/1626183756603775947
 https://vd2.bdstatic.com/mda-mc1sm1r5s9azchjv/v1-cae/1080p/mda-mc1sm1r5s9azchjv.mp4
 #EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="车载DJ《今夜为你醉...》" tvg-logo="https://diyp10.112114.xyz/logo/车载DJ《今夜为你醉...》.png" epg-url="https://epg.112114.xyz/pp.xml",车载DJ《今夜为你醉...》
 https://vdse.bdstatic.com//b68123a666cce39e7413da912e3675a3.mp4
-#EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="抖音热歌《大风吹+夜夜夜漫长》" tvg-logo="https://diyp10.112114.xyz/logo/抖音热歌《大风吹+夜夜夜漫长》.png" epg-url="https://epg.112114.xyz/pp.xml",抖音热歌《大风吹+夜夜夜漫长》
+#EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="抖音热歌《大风吹夜夜夜漫长》" tvg-logo="https://diyp10.112114.xyz/logo/抖音热歌《大风吹夜夜夜漫长》.png" epg-url="https://epg.112114.xyz/pp.xml",抖音热歌《大风吹夜夜夜漫长》
 https://vdse.bdstatic.com//13da18e12728e9d7849f6589a3070b4c.mp4
 #EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="2021年最好听的DJ串烧" tvg-logo="https://diyp10.112114.xyz/logo/2021年最好听的DJ串烧.png" epg-url="https://epg.112114.xyz/pp.xml",2021年最好听的DJ串烧
 https://vdse.bdstatic.com//cd396057d1fbcb12f0600d38a16effbc.mp4
@@ -12941,11 +12857,11 @@ https://vd3.bdstatic.com/mda-pjdckzfa1qch312b/720p/h264/1697273740635293154/mda-
 https://vd3.bdstatic.com/mda-pge7j0a1x9bz1w17/hd/cae_h264/1689418211614530005/mda-pge7j0a1x9bz1w17.mp4
 #EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="秋天不回来" tvg-logo="https://diyp10.112114.xyz/logo/秋天不回来.png" epg-url="https://epg.112114.xyz/pp.xml",秋天不回来
 https://vd4.bdstatic.com/mda-mgi36djv99pg48kj/sc/cae_h264/1626662975084056006/mda-mgi36djv99pg48kj.mp4
-#EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="吴莫愁+_+就現在" tvg-logo="https://diyp10.112114.xyz/logo/吴莫愁+_+就現在.png" epg-url="https://epg.112114.xyz/pp.xml",吴莫愁+_+就現在
+#EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="吴莫愁_就現在" tvg-logo="https://diyp10.112114.xyz/logo/吴莫愁_就現在.png" epg-url="https://epg.112114.xyz/pp.xml",吴莫愁_就現在
 https://bj.bcebos.com/v1/baidu-little-video/vod-gechgi84v43uhfhp/mda-kkm1btpwqm25suzw.mp4
 #EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="By2_没理由" tvg-logo="https://diyp10.112114.xyz/logo/By2_没理由.png" epg-url="https://epg.112114.xyz/pp.xml",By2_没理由
 https://bj.bcebos.com/v1/baidu-little-video/vod-gechgi84v43uhfhp/mda-kmbyf4x2aeqt8cds.mp4
-#EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="萧全+_+社会摇" tvg-logo="https://diyp10.112114.xyz/logo/萧全+_+社会摇.png" epg-url="https://epg.112114.xyz/pp.xml",萧全+_+社会摇
+#EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="萧全_社会摇" tvg-logo="https://diyp10.112114.xyz/logo/萧全_社会摇.png" epg-url="https://epg.112114.xyz/pp.xml",萧全_社会摇
 https://bj.bcebos.com/v1/baidu-little-video/vod-gechgi84v43uhfhp/mda-kkmxairac93q0vyu.mp4
 #EXTINF:-1 group-title="🔈舞曲音乐" tvg-name="像雾像雨又像风" tvg-logo="https://diyp10.112114.xyz/logo/像雾像雨又像风.png" epg-url="https://epg.112114.xyz/pp.xml",像雾像雨又像风
 https://vd2.bdstatic.com/mda-piv3h3tvwtw3ti6b/1080p/cae_h264/1696042278099326417/mda-piv3h3tvwtw3ti6b.mp4
@@ -12999,7 +12915,7 @@ http://z.b.bkpcp.top/m.php?id=cctv3
 http://z.b.bkpcp.top/m.php?id=cctv4
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV-05咪咕" tvg-logo="https://diyp10.112114.xyz/logo/CCTV-05咪咕.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-05咪咕
 http://z.b.bkpcp.top/m.php?id=cctv5
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV-5+咪咕" tvg-logo="https://diyp10.112114.xyz/logo/CCTV-5+咪咕.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-5+咪咕
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV-5咪咕" tvg-logo="https://diyp10.112114.xyz/logo/CCTV-5咪咕.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-5咪咕
 http://z.b.bkpcp.top/m.php?id=cctv5p
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV-06咪咕" tvg-logo="https://diyp10.112114.xyz/logo/CCTV-06咪咕.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-06咪咕
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=m3u8
@@ -13065,7 +12981,7 @@ http://kxrj.site:9125/php/mg9.php?id=cctv3
 http://kxrj.site:9125/php/mg9.php?id=cctv4
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://kxrj.site:9125/php/mg9.php?id=cctv5
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://kxrj.site:9125/php/mg9.php?id=cctv5p
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV6" tvg-logo="https://diyp10.112114.xyz/logo/CCTV6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV6
 http://kxrj.site:9125/php/mg9.php?id=cctv6
@@ -13101,7 +13017,7 @@ http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF
 http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv4
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv5
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv5p
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV6" tvg-logo="https://diyp10.112114.xyz/logo/CCTV6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV6
 http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv6
@@ -13137,7 +13053,7 @@ http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv3
 http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv4
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv5
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv5p
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV6" tvg-logo="https://diyp10.112114.xyz/logo/CCTV6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV6
 http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv6
@@ -13189,7 +13105,7 @@ http://025365.xyz:18098/itv/1000000005000265003.m3u8?cdn=ystenlive
 http://025365.xyz:18098/itv/5000000011000031102.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV4K" tvg-logo="https://diyp10.112114.xyz/logo/CCTV4K.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4K
 http://025365.xyz:18098/ysptp/cctv4k.m3u8
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://025365.xyz:18098/itv/1000000005000265016.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://025365.xyz:18098/itv/1000000005000265005.m3u8?cdn=ystenlive
@@ -13211,7 +13127,7 @@ http://182.92.109.190:1668/72/72.php?id=cctv3
 http://182.92.109.190:1668/72/72.php?id=cctv4
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://182.92.109.190:1668/72/72.php?id=cctv5
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://182.92.109.190:1668/72/72.php?id=cctv5p
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV6" tvg-logo="https://diyp10.112114.xyz/logo/CCTV6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV6
 http://182.92.109.190:1668/72/72.php?id=cctv6
@@ -13255,7 +13171,7 @@ http://z.b.bkpcp.top/m.php?id=cctv4o
 http://z.b.bkpcp.top/m.php?id=cctv4m
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://z.b.bkpcp.top/m.php?id=cctv5
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://z.b.bkpcp.top/m.php?id=cctv5p
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV6" tvg-logo="https://diyp10.112114.xyz/logo/CCTV6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV6
 http://z.b.bkpcp.top/m.php?id=cctv6
@@ -13291,7 +13207,7 @@ http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/def
 http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV6" tvg-logo="https://diyp10.112114.xyz/logo/CCTV6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV6
 http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
@@ -13377,7 +13293,7 @@ http://esfcv8kmvrq787151nsdv83fjksjreosj29oe1b86seie4ffb8rvuuvp.qc.dolfincdnx.ne
 http://esfcv8kmvrq787151nsdv83fjksjreosj29oe1b86seie4ffb8rvuuvp.qc.dolfincdnx.net:5001/itv/5000000011000031102.m3u8?cdn=bestzb
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV4K" tvg-logo="https://diyp10.112114.xyz/logo/CCTV4K.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4K
 http://esfcv8kmvrq787151nsdv83fjksjreosj29oe1b86seie4ffb8rvuuvp.qc.dolfincdnx.net:5001/ysptp/cctv4k.m3u8
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://esfcv8kmvrq787151nsdv83fjksjreosj29oe1b86seie4ffb8rvuuvp.qc.dolfincdnx.net:5001/itv/1000000005000265016.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://esfcv8kmvrq787151nsdv83fjksjreosj29oe1b86seie4ffb8rvuuvp.qc.dolfincdnx.net:5001/itv/1000000005000265005.m3u8?cdn=ystenlive
@@ -13559,7 +13475,7 @@ http://117.190.144.101:1111/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid
 http://117.190.144.101:1111/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$新疆移动酒店
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV4" tvg-logo="https://diyp10.112114.xyz/logo/CCTV4.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4
 http://117.190.144.101:1111/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0$新疆移动酒店
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://117.190.144.101:1111/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0$新疆移动酒店
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://117.190.144.101:1111/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0$新疆移动酒店
@@ -13591,7 +13507,7 @@ http://118.249.4.164:8082/hls/2/index.m3u8$湖南电信酒店
 http://118.249.4.164:8082/hls/3/index.m3u8$湖南电信酒店
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV4" tvg-logo="https://diyp10.112114.xyz/logo/CCTV4.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4
 http://118.249.4.164:8082/hls/4/index.m3u8$湖南电信酒店
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://118.249.4.164:8082/hls/6/index.m3u8$湖南电信酒店
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://118.249.4.164:8082/hls/5/index.m3u8$湖南电信酒店
@@ -13623,7 +13539,7 @@ http://119.123.79.35:9600/hls/2/index.m3u8$广东电信酒店
 http://119.123.79.35:9600/hls/3/index.m3u8$广东电信酒店
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV4" tvg-logo="https://diyp10.112114.xyz/logo/CCTV4.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4
 http://119.123.79.35:9600/hls/4/index.m3u8$广东电信酒店
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://119.123.79.35:9600/hls/6/index.m3u8$广东电信酒店
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://119.123.79.35:9600/hls/5/index.m3u8$广东电信酒店
@@ -13657,7 +13573,7 @@ http://111.8.242.126:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.8.242.126:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖南移动酒店
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV4" tvg-logo="https://diyp10.112114.xyz/logo/CCTV4.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4
 http://111.8.242.126:9999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$湖南移动酒店
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://111.8.242.126:9999/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0$湖南移动酒店
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://111.8.242.126:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$湖南移动酒店
@@ -13691,7 +13607,7 @@ http://222.84.192.233:8181/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&
 http://222.84.192.233:8181/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV4" tvg-logo="https://diyp10.112114.xyz/logo/CCTV4.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4
 http://222.84.192.233:8181/tsfile/live/faacts/0004_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://222.84.192.233:8181/tsfile/live/faacts/0016_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://222.84.192.233:8181/tsfile/live/faacts/0005_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店
@@ -13745,7 +13661,7 @@ http://123.157.31.182:7912/rtp/233.50.201.119:5140$浙江联通组播
 http://123.157.31.182:7912/rtp/233.50.201.196:5140$浙江联通组播
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV4" tvg-logo="https://diyp10.112114.xyz/logo/CCTV4.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4
 http://123.157.31.182:7912/rtp/233.50.201.4:5140$浙江联通组播
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://123.157.31.182:7912/rtp/233.50.201.220:5140$浙江联通组播
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://123.157.31.182:7912/rtp/233.50.201.197:5140$浙江联通组播
@@ -13799,7 +13715,7 @@ http://183.188.159.204:6001/rtp/226.0.2.20:8072$山西联通组播
 http://183.188.159.204:6001/rtp/226.0.2.156:9160$山西联通组播
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV4" tvg-logo="https://diyp10.112114.xyz/logo/CCTV4.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4
 http://183.188.159.204:6001/rtp/226.0.2.21:8080$山西联通组播
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://183.188.159.204:6001/rtp/226.0.2.168:9256$山西联通组播
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://183.188.159.204:6001/rtp/226.0.2.209:9584$山西联通组播
@@ -13865,7 +13781,7 @@ http://121.24.98.45:8090/hls/10/index.m3u8$河北联通酒店
 http://121.24.98.45:8090/hls/11/index.m3u8$河北联通酒店
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV4" tvg-logo="https://diyp10.112114.xyz/logo/CCTV4.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4
 http://121.24.98.45:8090/hls/12/index.m3u8$河北联通酒店
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://121.24.98.45:8090/hls/5/index.m3u8$河北联通酒店
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://121.24.98.45:8090/hls/13/index.m3u8$河北联通酒店
@@ -13905,9 +13821,9 @@ http://119.98.133.74:4022/rtp/239.69.1.102:10250$湖北电信组播
 http://119.98.133.74:4022/rtp/239.69.1.122:10370$湖北电信组播
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV4" tvg-logo="https://diyp10.112114.xyz/logo/CCTV4.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4
 http://119.98.133.74:4022/rtp/239.69.1.138:10466$湖北电信组播
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://119.98.133.74:4022/rtp/239.254.96.234:9484$湖北电信组播
-#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5+" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
+#EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://119.98.133.74:4022/rtp/239.69.1.12:9712$湖北电信组播
 #EXTINF:-1 group-title="央卫V4[临时]" tvg-name="CCTV5" tvg-logo="https://diyp10.112114.xyz/logo/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://119.98.133.74:4022/rtp/239.69.1.123:10376$湖北电信组播
